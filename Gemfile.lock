@@ -1,0 +1,24 @@
+PATH
+  remote: .
+  specs:
+    child_subreaper (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    minitest (5.22.3)
+    rake (13.1.0)
+    rake-compiler (1.2.7)
+      rake
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  child_subreaper!
+  minitest (~> 5.0)
+  rake
+  rake-compiler
+
+BUNDLED WITH
+   2.5.7
