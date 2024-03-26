@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.summary = "Ruby binding to call prctl(PR_SET_CHILD_SUBREAPER)"
   spec.homepage = "https://github.com/Shopify/child_subreaper"
   spec.license = "MIT"
-  spec.required_ruby_version = ">= 2.0.0"
+  spec.required_ruby_version = ">= 3.0.0"
 
   spec.metadata["allowed_push_host"] = "https://rubygems.org"
 
